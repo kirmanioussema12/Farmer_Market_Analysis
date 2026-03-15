@@ -51,3 +51,25 @@ Farmer_Market_Analysis/
 ├── Farmers' Market Observation-dataset.csv   # Raw dataset
 ├── requirements.txt            # Python dependencies
 └── README.md                   # This file (you're reading it!)
+```
+---
+
+## 🚀 Getting Started
+1. Clone the Repository
+```text
+git clone https://github.com/kirmanioussema12/Farmer_Market_Analysis.git
+cd Farmer_Market_Analysis
+```
+2. Install Dependencies
+   # Recommended: use a virtual environment
+   ```text
+python -m venv venv
+source venv/bin/activate    # Linux / macOS
+venv\Scripts\activate       # Windows
+
+pip install -r requirements.txt
+   ```
+
+
+
+
