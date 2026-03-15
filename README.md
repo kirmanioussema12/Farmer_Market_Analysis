@@ -61,14 +61,12 @@ git clone https://github.com/kirmanioussema12/Farmer_Market_Analysis.git
 cd Farmer_Market_Analysis
 ```
 2. Install Dependencies
-   # Recommended: use a virtual environment
-   ```text
+```text
 python -m venv venv
 source venv/bin/activate    # Linux / macOS
 venv\Scripts\activate       # Windows
-
 pip install -r requirements.txt
-   ```
+```
 
 
 
