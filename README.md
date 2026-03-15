@@ -35,9 +35,6 @@ The analysis is implemented in a single, well-documented **Jupyter Notebook** �
 | Jupyter Notebook         | Latest            | Interactive analysis & visualization | ![Jupyter](https://img.shields.io/badge/Jupyter-orange) |
 | pandas                   | Latest            | Data manipulation & cleaning         | ![Pandas](https://img.shields.io/badge/Pandas-150458) |
 | numpy                    | Latest            | Numerical computations               | —                                                 |
-| matplotlib               | Latest            | Static plotting                      | —                                                 |
-| seaborn                  | Latest            | Statistical data visualization       | —                                                 |
-| (possibly) scipy / statsmodels | —          | Statistical tests (if used)          | —                                                 |
 
 Full list of dependencies → [`requirements.txt`](requirements.txt)
 
