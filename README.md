@@ -105,12 +105,12 @@ Farmer_Market_Analysis/
 
 ## 🚀 Getting Started
 1. Clone the Repository
-```text
+```bash
 git clone https://github.com/kirmanioussema12/Farmer_Market_Analysis.git
 cd Farmer_Market_Analysis
 ```
 2. Install Dependencies
-```text
+```bash
 python -m venv venv
 source venv/bin/activate    # Linux / macOS
 venv\Scripts\activate       # Windows
